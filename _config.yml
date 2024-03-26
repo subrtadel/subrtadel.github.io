@@ -1,5 +1,8 @@
 theme: minima
-title: [Title]
-description: [A short description of your site's purpose]
+title: Your awesome title
+author:
+  name: Adéla Šubrtová
+  email: subrtade (at) fel.cvut.cz
+description: A short description of your site's purpose
 header_pages:
   - about.md

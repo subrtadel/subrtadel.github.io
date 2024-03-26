@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: Your awesome title
+title: [The title of your site]
+description: [A short description of your site's purpose]
 author:
   name: Adéla Šubrtová
   email: subrtade (at) fel.cvut.cz
-description: A short description of your site's purpose
 header_pages:
   - about.md

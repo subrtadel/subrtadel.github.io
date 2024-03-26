@@ -1,5 +1,3 @@
-plugins:
-  - just-the-docs
-theme: just-the-docs
+theme: minima
 title: [Title]
 description: [A short description of your site's purpose]

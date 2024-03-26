@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-remote-theme
+remote_theme: benbalter/retlab
 title: [Adela Subrtova's personal webpage]
 description: [A short description of your site's purpose]

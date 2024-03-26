@@ -1,6 +1,6 @@
-theme: jekyll-theme-minimal
-title: [The title of your site]
-description: [A short description of your site's purpose]
+theme: minima
+title: The title of your site
+description: A short description of your site's purpose
 author:
   name: Adéla Šubrtová
   email: subrtade (at) fel.cvut.cz

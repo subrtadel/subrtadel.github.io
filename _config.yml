@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Adéla Šubrtová
 logo: /assets/imgs/photo.jpeg
-description: I am a PhD student in the [Visual Recognition Group (VRG)](https://cyber.felk.cvut.cz/research/groups-teams/vrg/) at CTU in Prague supervised by Jan Čech and Jiří Matas (supervisor specialist).
-author:
-  name: Adéla Šubrtová
+description: I am a PhD student in the <a href="https://cyber.felk.cvut.cz/research/groups-teams/vrg/">Visual Recognition Group (VRG)</a> at CTU in Prague supervised by Jan Čech and Jiří Matas (supervisor specialist).
+contact:
   email: subrtade (at) fel.cvut.cz
+  linkedin: https://www.linkedin.com/in/subrtade/

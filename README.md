@@ -1,6 +1,6 @@
 
 ## News
-* September 2023 - January 2024  Internship in NII in Tokyo, Japan
+* September 2023 - January 2024  Internship at NII in Tokyo, Japan
 * Summer 2023 - successful PhD state exam
 * September 2022 - December 2022 Internship at Adobe Research in Paris, France
 

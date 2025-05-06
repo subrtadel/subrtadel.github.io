@@ -5,7 +5,7 @@
 * September 2022 - December 2022 Internship at Adobe Research in Paris, France
 
 ## Publications
-* **Detecting and Correcting Perceptual Artifacts in Face Images** <br> A. Šubrtová, J. Čech, A. Sugimoto, Computer Vision Winter Workshop, 2024
+* **Detecting and Correcting Perceptual Artifacts in Face Images** <br> A. Šubrtová, J. Čech, A. Sugimoto, Computer Vision Winter Workshop, 2024 <br> [pdf](https://cvww2024.sdrv.si/wp-content/uploads/sites/5/2024/08/Detecting_and_Correcting_Perceptual_Artifacts_on_Synthetic_Face_Images.pdf)
 
 * **Diffusion image analogies** <br> A. Šubrtová, M. Lukáč, J. Čech, D. Futschik, E. Shechtman, and D. Sýkora, in Proceedings of the 50th Annual Conference on Computer Graphics and Interactive Techniques, Association for Computing Machinery, 2023. doi: 10.1145/3588432.3591558 <br> [project page](https://dcgi.felk.cvut.cz/~sykorad/dia.html), [code](https://github.com/subrtadel/DIA)
 

@@ -1,8 +1,9 @@
 
 ## News
-* September 2023 - January 2024  Internship at NII in Tokyo, Japan
+* December 2025 - successful PhD defense
+* September 2023 – January 2024 Internship at NII in Tokyo, Japan
 * Summer 2023 - successful PhD state exam
-* September 2022 - December 2022 Internship at Adobe Research in Paris, France
+* September 2022 – December 2022 - Internship at Adobe Research in Paris, France
 
 ## Publications
 * **Detecting and Correcting Perceptual Artifacts in Face Images** <br> A. Šubrtová, J. Čech, A. Sugimoto, Computer Vision Winter Workshop, 2024 <br> [pdf](https://cvww2024.sdrv.si/wp-content/uploads/sites/5/2024/08/Detecting_and_Correcting_Perceptual_Artifacts_on_Synthetic_Face_Images.pdf)
